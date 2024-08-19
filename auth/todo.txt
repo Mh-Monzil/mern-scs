@@ -1,0 +1,8 @@
+todo -> create user account
+    mongoose
+    schema
+    model
+    userCreate -> password -> hash
+    jwt token -> cookies
+
+    login -> token receive -> decrypt -> email
